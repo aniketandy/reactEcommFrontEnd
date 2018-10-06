@@ -1,0 +1,30 @@
+.Product{
+    width: 30%;
+    border: 1px solid #ccc;
+    text-align: center;
+    box-shadow: 0px 3px 4px #ccc;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+.header{
+    text-align: center;
+}
+
+.ProductListContainer{
+    text-align : center;
+}
+.ProductEdit{
+    text-align: center;
+}
+.ProductAdd{
+    text-align: center;
+}
+.productImg{
+    height: 100px;
+    width: 150px;
+    /* text-align: center; */
+    /* margin-left: -64px; */
+    margin-right: 50px
+}

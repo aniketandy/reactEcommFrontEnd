@@ -1,0 +1,8 @@
+.loginForm {
+    width: 57%;
+    border: 1px solid #ccc;
+    padding: 40px;
+    box-shadow: 0px 6px 3px #ccc;
+    /* margin-left: auto; */
+    margin: auto;
+}
